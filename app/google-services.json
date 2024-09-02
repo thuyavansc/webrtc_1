@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "461146800931",
+    "firebase_url": "https://webrtcjava-e36a2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "webrtcjava-e36a2",
+    "storage_bucket": "webrtcjava-e36a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461146800931:android:a54b7b8a4d193a6dc6c296",
+        "android_client_info": {
+          "package_name": "au.com.softclient.webrtc_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW9dqkb4KogfomQTGFAfdKPsPDiIrBHB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
